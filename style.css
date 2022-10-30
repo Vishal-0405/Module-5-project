@@ -602,6 +602,7 @@ text-decoration-line: underline;
 /* Main Black */
 
 color: #181717;
+border: 5px solid yellow ;
 
 }
 .infoDetails1{
@@ -626,9 +627,10 @@ letter-spacing: -0.03em;
 
 color: #181717;
 
+
 }
 .infoTitle2{
-    position: absolute;
+position: absolute;
 width: 124px;
 height: 20px;
 left: calc(50% - 124px/2 - 498px);
@@ -647,6 +649,8 @@ text-decoration-line: underline;
 /* Main Black */
 
 color: #181717;
+
+
 
 
 }
